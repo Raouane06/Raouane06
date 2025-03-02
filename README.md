@@ -1,7 +1,5 @@
 ## Hi there 👋
-🔗 [LinkedIn](https://www.linkedin.com/in/raouane-krama-67b02b338/)  
-📘 [Facebook](https://www.facebook.com/deniz.cicegi.129)  
-📸 [Instagram](https://www.instagram.com/raouaan_/?hl=en)  
+
 <!--
 **Raouane06/Raouane06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
